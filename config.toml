@@ -1,4 +1,4 @@
-baseURL = "https://"
+baseURL = "https://kinganointing.netlify.app/"
 languageCode = "en-us"
 title = "KingAnointingX"
 paginate     = 10
@@ -10,16 +10,16 @@ disqusShortname = "myfoliosite"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  ProfilePicture = "../images/protpf.jpeg"
+  ProfilePicture = "../images/ldr.jpeg"
 
   # Subtitle for home
-  homeSubtitle = "Your Favorite Software X Blockchain Engineer ;)"
+  homeSubtitle = "Your Favorite Software  Engineer ;)"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "KingAnointingX | Software Engineer | Blockchain Application Developer | Backend Developer| Golang, Solidity, Python | Open Source Contributor"
+  description = "KingAnointingX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
   images = [""]
 
   enableRobotsTXT = true
@@ -76,19 +76,23 @@ disqusShortname = "myfoliosite"
     url  = "https://twitter.com/KingAnointingX"
 
   [[languages.en.params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/adetoye-anointing-155270235"
+
+  [[languages.en.params.social]]
     name = "email"
     url  = "mailto:adetoyeanointing15@gmail.com"
 
   [[languages.en.params.social]]
     name = "github"
-    url  = "https://github.com/KingAnointingX"
+    url  = "https://github.com/KingAnointing"
 
     # You can create a language based menu
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "https://"
+        url = "https://kinganointing-blog.netlify.app/"
       [[languages.en.menu.main]]
         identifier = "talks"
         name = "Talks"
@@ -107,7 +111,7 @@ disqusShortname = "myfoliosite"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "https://"
+    url        = "https://kinganointing-blog.netlify.app/"
   [[menu.main]]
     identifier = "talks"
     name       = "Talks"
