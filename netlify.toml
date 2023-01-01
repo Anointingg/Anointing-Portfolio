@@ -1,18 +1,18 @@
 [[redirects]]
 from = "/posts/"
-to = "https://blog.saintmalik.me"
+to = "https://"
 status = 301
 force = true
 
 [[redirects]]
-from = "https://saintmalik.me/posts"
-to = "https://blog.saintmalik.me"
+from = "https://"
+to = "https://"
 status = 301
 force = true
 
 [[redirects]]
 from = "/blog/"
-to = "https://blog.saintmalik.me"
+to = "https://"
 status = 301
 force = true
 
