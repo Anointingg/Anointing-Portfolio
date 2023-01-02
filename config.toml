@@ -1,6 +1,6 @@
-baseURL = "https://kinganointing.netlify.app/"
+baseURL = "https://kingdaemonx.netlify.app/"
 languageCode = "en-us"
-title = "KingAnointingX"
+title = "KingDaemonX"
 paginate     = 10
 googleAnalytics = "UA-123518521-4"
 disqusShortname = "myfoliosite"
@@ -13,13 +13,14 @@ disqusShortname = "myfoliosite"
   ProfilePicture = "../images/protpf.jpeg"
 
   # Subtitle for home
-  homeSubtitle = "Your Favorite Software  Engineer ;)"
+  homeSubtitle = "Software Engineer **Backend Developer**"
+  homeSubtitle = "お気に入りの近所のソフトウェア エンジニア"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "KingAnointingX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
+  description = "KingDaemonX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
   images = [""]
 
   enableRobotsTXT = true
@@ -44,7 +45,7 @@ disqusShortname = "myfoliosite"
   customJS  = []
 
 [author]
-  name = "KingAnointingX"
+  name = "KingDaemonX"
 
 [permalinks]
   posts = "/:slug"
@@ -56,24 +57,24 @@ disqusShortname = "myfoliosite"
 
 [languages]
   [languages.en]
-    title = "KingAnointingX"
+    title = "KingDaemonX"
     subtitle = "Software Engineer, Blockchain Application Developer and Open Source Contributor"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "~/KingAnointingX"
+      logoText = "~/KingDaemonX"
       logoHomeLink = "/"
     # or
-    #
+    #KingAnointingX
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
     # Social icons
   [[languages.en.params.social]]
     name = "twitter"
-    url  = "https://twitter.com/KingAnointingX"
+    url  = "https://twitter.com/KingDaemonX"
 
   [[languages.en.params.social]]
     name = "linkedin"
@@ -85,14 +86,14 @@ disqusShortname = "myfoliosite"
 
   [[languages.en.params.social]]
     name = "github"
-    url  = "https://github.com/KingAnointing"
+    url  = "https://github.com/KingDaemonX"
 
     # You can create a language based menu
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "https://kinganointing-blog.netlify.app/"
+        url = "https://kingdaemonx-blog.netlify.app/"
       [[languages.en.menu.main]]
         identifier = "talks"
         name = "Talks"
@@ -111,7 +112,7 @@ disqusShortname = "myfoliosite"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "https://kinganointing-blog.netlify.app/"
+    url        = "https://kingdaemonx-blog.netlify.app/"
   [[menu.main]]
     identifier = "talks"
     name       = "Talks"
