@@ -13,7 +13,7 @@ disqusShortname = "myfoliosite"
   ProfilePicture = "../images/protpf.jpeg"
 
   # Subtitle for home
-  homeSubtitle = "Software Engineer **Backend Developer** \n <br/> お気に入りの近所のソフトウェア エンジニア"
+  homeSubtitle = "Software Engineer **Backend Developer** \r\n お気に入りの近所のソフトウェア エンジニア"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
