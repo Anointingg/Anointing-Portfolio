@@ -1,10 +1,10 @@
 +++
 title = "About Me"
-description = "KingAnointingX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
+description = "KingDaemonX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
 date = "2023-01-01"
 aliases = ["about-us","about-me","contact"]
 [ author ]
-  name = "KingAnointingX"
+  name = "KingDaemonX"
 +++
 
 I am a Software Engineer, expertise as a Backend Developer, I dibble dabble around tech tracks before finally coming to terms with backend development.

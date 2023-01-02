@@ -4,7 +4,7 @@ description = "KingAnointingX | Software Engineer | Backend Developer| Golang, P
 date = "2023-01-01"
 aliases = ["works","about-me"]
 [ author ]
-name = "KingAnointingX"
+name = "KingDaemonX"
 +++
 
 ## Projects
