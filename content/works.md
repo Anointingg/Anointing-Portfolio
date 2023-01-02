@@ -1,6 +1,6 @@
 +++
 title = "Works"
-description = "KingAnointingX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
+description = "KingDaemonX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
 date = "2023-01-01"
 aliases = ["works","about-me"]
 [ author ]
