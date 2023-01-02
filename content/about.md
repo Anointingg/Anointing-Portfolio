@@ -7,11 +7,17 @@ aliases = ["about-us","about-me","contact"]
   name = "KingDaemonX"
 +++
 
-I am a Software Engineer, expertise as a Backend Developer, I dibble dabble around tech tracks before finally coming to terms with backend development.
+I am a Software Engineer, expertise as a Backend Developer, I dibble dabble around different tech tracks before finally coming to terms with backend development, I also love the Linux OS alot, I mean who doesn't love the commandline terminal :)
 
-I'm the current Google Developer Student Clubs Lead in the Federal University Of Oye and I develop an affinity for opensource contributions.
+<!-- I'm the current Google Developer Student Clubs Lead in the Federal University Of Oye and I develop an affinity for opensource contributions. -->
+
+In my spare time when I am not coding or learning new programming concept, I watch anime, adult cartoon like Rick and Morty, Love,Death X Robot and play online video games.
+
+I speak english fluently, will very much like to learn japanese and spanish, and I have a huge interest in travelling the world
 
 I love security and tried developing a career in it which lead to me having skill in python and hence my transitioning to backend development, I like python as a language but i love building APIs and developing backend service more with simplicity and use of logic.
+
+I have been writing golang for a while and it have so far develop high interest for it and hope to explore the language deeply and also write more about and probably make video tutorials.
 
 #### Book/Article Recommendations
 
