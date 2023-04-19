@@ -13,7 +13,7 @@ disqusShortname = "myfoliosite"
   ProfilePicture = "../images/protpf.jpeg"
 
   # Subtitle for home
-  homeSubtitle = "Software Engineer **Backend Developer** \r\n お気に入りの近所のソフトウェア エンジニア"
+  homeSubtitle = "Software Engineer 〣 Backend Developer 〣 \r\n\r\n\r\n お気に入りの近所の ソフトウェア エンジニア"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -44,7 +44,7 @@ disqusShortname = "myfoliosite"
   customJS  = []
 
 [author]
-  name = "KingDaemonX"
+  name = "Adetoye Anointing"
 
 [permalinks]
   posts = "/:slug"
@@ -81,7 +81,7 @@ disqusShortname = "myfoliosite"
 
   [[languages.en.params.social]]
     name = "email"
-    url  = "mailto:adetoyeanointing15@gmail.com"
+    url  = "mailto:adetoyeanointing2002@gmail.com"
 
   [[languages.en.params.social]]
     name = "github"
@@ -99,12 +99,12 @@ disqusShortname = "myfoliosite"
         url = "/talks"
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "Who am i"
+        name = "WhoAmI"
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "resume"
         name       = "Resume"
-        url        = "https://drive.google.com/file/d/1Gf5yUzYhd-EVJ6Yb16yDefyLLN37nse1/view?usp=share_link"
+        url        = "https://drive.google.com/file/d/1yRQayLMwi1nwxB15x1vgdnwy8h4VQuRZ/view?usp=share_link"
 
 # And you can even create generic menu
 [menu]
@@ -117,10 +117,10 @@ disqusShortname = "myfoliosite"
     name       = "Talks"
     url        = "/talks"
   [[menu.main]]
-    identifier = "who am i"
-    name       = "Who am i"
+    identifier = "whoAmI"
+    name       = "WhoAmI"
     url        = "/about"
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "https://drive.google.com/file/d/1Gf5yUzYhd-EVJ6Yb16yDefyLLN37nse1/view?usp=share_link"
+    url        = "https://drive.google.com/file/d/1yRQayLMwi1nwxB15x1vgdnwy8h4VQuRZ/view?usp=share_link"
