@@ -1,6 +1,6 @@
 baseURL = "https://kingdaemonx.netlify.app/"
 languageCode = "en-us"
-title = "KingDaemonX"
+title = "Adetoye Anointing"
 paginate     = 10
 googleAnalytics = "UA-123518521-4"
 disqusShortname = "myfoliosite"
@@ -44,7 +44,7 @@ disqusShortname = "myfoliosite"
   customJS  = []
 
 [author]
-  name = "Adetoye Anointing"
+  name = "KingDaemonX"
 
 [permalinks]
   posts = "/:slug"
