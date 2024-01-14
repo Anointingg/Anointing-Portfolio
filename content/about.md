@@ -7,17 +7,55 @@ aliases = ["about-us","about-me","contact"]
   name = "KingDaemonX"
 +++
 
-I am a Software Engineer, expertise as a Backend Developer, I dibble dabble around different tech tracks before finally coming to terms with backend development, I also love the Linux OS alot, I mean who doesn't love the commandline terminal :)
+<div align="center">
 
-<!-- I'm the current Google Developer Student Clubs Lead in the Federal University Of Oye and I develop an affinity for opensource contributions. -->
+## Hey There! I'm Anointing, A Software Engineer
 
-In my spare time when I am not coding or learning new programming concept, I watch anime, adult cartoon like Rick and Morty, Love,Death X Robot and play online video games.
 
-I speak english fluently, will very much like to learn japanese and spanish, and I have a huge interest in travelling the world
+I create [content](https://dev.to/han_kami) on technical topics, my personal software engineering experiences, ideas, learning and bug fixes.
 
-I love security and tried developing a career in it which lead to me having skill in python and hence my transitioning to backend development, I like python as a language but i love building APIs and developing backend service more with simplicity and use of logic.
 
-I have been writing golang for a while and it have so far develop high interest for it and hope to explore the language deeply and also write more about and probably make video tutorials.
+
+I am primarily focused on Backend development and Infrastructure engineering. I have high affinity to work in SRE and blockchain development.
+
+
+
+I enjoy using linux for development and I have experience in deployment to several cloud service, including AWS and DigitalOcean.
+
+
+
+I speak english fluently as well as my native language "Yoruba".
+
+
+
+I have experience working with various technologies like such as Golang, Amazon AWS, Postgres, MongoDB, Postman...
+
+
+
+I am an open source contributor. I have contributed to several open source projects in the past and hope to further contribute to infrastructure-based open source initiatives moving forward.
+
+
+
+To contact me , send mails via [email](adetoyeanointing2002@gmail.com), [linkedin](https://www.linkedin.com/in/adetoye-anointing) or follow me on [X](https://twitter.com/KingDaemonX)
+
+
+---
+
+---
+
+
+[Hire me](https://drive.google.com/file/d/1jdlRbdl-2vrUxb6LZaRiZXkuno-Nb7Q3/view?usp=sharing), I am a security conscious software engineer with diverse skill set :
+
+- Backend engineering
+- Technical writing
+- Documentation
+- Collaboration
+- Leadership
+
+
+
+---
+
 
 #### Book/Article Recommendations
 
@@ -29,3 +67,6 @@ I have been writing golang for a while and it have so far develop high interest 
 <!-- - [Computer Science Distilled: Learn The Art Of Solving Computational Problems - Wladston Ferreira Filho](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020) -->
 
 ##### Loading....
+
+
+</div>

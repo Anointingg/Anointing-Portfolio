@@ -13,13 +13,13 @@ disqusShortname = "myfoliosite"
   ProfilePicture = "../images/protpf.jpeg"
 
   # Subtitle for home
-  homeSubtitle = "Software Engineer 〣 Backend Developer 〣 \r\n\r\n\r\n あなたのフレンドリーな近所のソフトウェアエンジニア"
+  homeSubtitle = "Software Engineer 〣 Backend Engineer 〣 Golang Developer 〣 Technical Writer 〣 Opensource Contributor"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "KingDaemonX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
+  description = "KingDaemonX | Software Engineer | Backend Engineer | Golang Developer | Technical Writer| Golang, Python | Open Source Contributor"
   images = [""]
 
   enableRobotsTXT = true
@@ -44,7 +44,7 @@ disqusShortname = "myfoliosite"
   customJS  = []
 
 [author]
-  name = "KingDaemonX"
+  name = "Adetoye Anointing"
 
 [permalinks]
   posts = "/:slug"
@@ -57,13 +57,13 @@ disqusShortname = "myfoliosite"
 [languages]
   [languages.en]
     title = "Adetoye Anointing"
-    subtitle = "Software Engineer, Blockchain Application Developer and Open Source Contributor"
-    keywords = ""
+    subtitle = "Software Engineer, Backend Engineer, Golang Developer, Technical Writer and Opensource Contributor"
+    keywords = "go, golang, software Engineer, Technical Writer, backend developer, backend development"
     copyright = ""
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "~/KingDaemonX"
+      logoText = "~/Han Kami 王"
       logoHomeLink = "/"
     # or
     #KingDaemonX
@@ -77,7 +77,7 @@ disqusShortname = "myfoliosite"
 
   [[languages.en.params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/adetoye-anointing-155270235"
+    url  = "https://www.linkedin.com/in/adetoye-anointing"
 
   [[languages.en.params.social]]
     name = "email"
@@ -92,7 +92,7 @@ disqusShortname = "myfoliosite"
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "https://kingdaemonx-blog.netlify.app/"
+        url = "https://dev.to/han_kami"
       [[languages.en.menu.main]]
         identifier = "talks"
         name = "Talks"
@@ -104,14 +104,14 @@ disqusShortname = "myfoliosite"
       [[languages.en.menu.main]]
         identifier = "resume"
         name       = "Resume"
-        url        = "https://drive.google.com/file/d/1yRQayLMwi1nwxB15x1vgdnwy8h4VQuRZ/view?usp=share_link"
+        url        = "https://drive.google.com/file/d/1jdlRbdl-2vrUxb6LZaRiZXkuno-Nb7Q3/view?usp=sharing"
 
 # And you can even create generic menu
 [menu]
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "https://kingdaemonx-blog.netlify.app/"
+    url        = "https://dev.to/han_kami"
   [[menu.main]]
     identifier = "talks"
     name       = "Talks"
@@ -123,4 +123,4 @@ disqusShortname = "myfoliosite"
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "https://drive.google.com/file/d/1yRQayLMwi1nwxB15x1vgdnwy8h4VQuRZ/view?usp=share_link"
+    url        = "https://drive.google.com/file/d/1jdlRbdl-2vrUxb6LZaRiZXkuno-Nb7Q3/view?usp=sharing"
