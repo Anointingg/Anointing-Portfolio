@@ -41,8 +41,6 @@ To contact me , send mails via [email](adetoyeanointing2002@gmail.com), [linkedi
 
 ---
 
----
-
 
 [Hire me](https://drive.google.com/file/d/1jdlRbdl-2vrUxb6LZaRiZXkuno-Nb7Q3/view?usp=sharing), I am a security conscious software engineer with diverse skill set :
 
