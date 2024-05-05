@@ -85,7 +85,7 @@ disqusShortname = "myfoliosite"
 
   [[languages.en.params.social]]
     name = "github"
-    url  = "https://github.com/KingDaemonX"
+    url  = "https://github.com/yorubad-dev"
 
     # You can create a language based menu
     [languages.en.menu]
