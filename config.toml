@@ -1,6 +1,6 @@
-baseURL = "https://kingdaemonx.netlify.app/"
+baseURL = "https://yorubad-dev.netlify.app/"
 languageCode = "en-us"
-title = "KingDaemonX"
+title = "yorubad-dev"
 paginate     = 10
 googleAnalytics = "UA-123518521-4"
 disqusShortname = "myfoliosite"
@@ -19,7 +19,7 @@ disqusShortname = "myfoliosite"
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "KingDaemonX | Software Engineer | Backend Engineer | Golang Developer | Technical Writer| Golang, Python | Open Source Contributor"
+  description = "yorubad-dev | Software Engineer | Backend Engineer | Golang Developer | Technical Writer| Golang, Python | Open Source Contributor"
   images = [""]
 
   enableRobotsTXT = true
@@ -66,14 +66,14 @@ disqusShortname = "myfoliosite"
       logoText = "~/Han Kami 王"
       logoHomeLink = "/"
     # or
-    #KingDaemonX
+    #yorubad-dev
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
     # Social icons
   [[languages.en.params.social]]
     name = "twitter"
-    url  = "https://twitter.com/KingDaemonX"
+    url  = "https://twitter.com/yorubad-dev"
 
   [[languages.en.params.social]]
     name = "linkedin"

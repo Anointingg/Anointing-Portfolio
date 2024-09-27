@@ -1,18 +1,18 @@
 [[redirects]]
 from = "/posts/"
-to = "https://kingdaemonx-blog.netlify.app/"
+to = "https://yorubad-dev-blog.netlify.app/"
 status = 301
 force = true
 
 [[redirects]]
-from = "https://kingdaemonx.netlify.app/posts/"
-to = "https://kingdaemonx-blog.netlify.app/"
+from = "https://yorubad-dev.netlify.app/posts/"
+to = "https://yorubad-dev-blog.netlify.app/"
 status = 301
 force = true
 
 [[redirects]]
 from = "/blog/"
-to = "https://kingdaemonx-blog.netlify.app/"
+to = "https://yorubad-dev-blog.netlify.app/"
 status = 301
 force = true
 

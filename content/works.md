@@ -1,10 +1,10 @@
 +++
 title = "Works"
-description = "KingDaemonX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
+description = "yorubad-dev | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
 date = "2023-01-01"
 aliases = ["works","about-me"]
 [ author ]
-name = "KingDaemonX"
+name = "yorubad-dev"
 +++
 
 ## Projects

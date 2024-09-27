@@ -1,10 +1,10 @@
 +++
 title = "About Me"
-description = "KingDaemonX | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
+description = "yorubad-dev | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
 date = "2023-01-01"
 aliases = ["about-us","about-me","contact"]
 [ author ]
-  name = "KingDaemonX"
+  name = "yorubad-dev"
 +++
 
 <div align="center">
@@ -20,11 +20,11 @@ I am primarily focused on Backend development and Infrastructure engineering. I 
 
 
 
-I enjoy using linux for development and I have experience in deployment to several cloud service, including AWS and DigitalOcean.
+I enjoy using linux for development and I have experience in deployment to several cloud service, including AWS and DigitalOcean with vast knowledge in instance configuration and management.
 
 
 
-I speak english fluently as well as my native language "Yoruba".
+I speak English fluently as well as my native language "Yoruba".
 
 
 
@@ -36,7 +36,7 @@ I am an open source contributor. I have contributed to several open source proje
 
 
 
-To contact me , send mails via [email](adetoyeanointing2002@gmail.com), [linkedin](https://www.linkedin.com/in/adetoye-anointing) or follow me on [X](https://twitter.com/KingDaemonX)
+To contact me , send mails via [email](adetoyeanointing2002@gmail.com), [linkedin](https://www.linkedin.com/in/adetoye-anointing) or follow me on [X](https://twitter.com/yorubad-dev)
 
 
 ---
@@ -44,8 +44,8 @@ To contact me , send mails via [email](adetoyeanointing2002@gmail.com), [linkedi
 
 [Hire me](https://drive.google.com/file/d/1jdlRbdl-2vrUxb6LZaRiZXkuno-Nb7Q3/view?usp=sharing), I am a security conscious software engineer with diverse skill set :
 
-- Backend engineering
-- Technical writing
+- Backend Engineering
+- Technical Writing
 - Documentation
 - Collaboration
 - Leadership
