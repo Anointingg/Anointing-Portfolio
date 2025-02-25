@@ -19,10 +19,17 @@ name = "Adetoye Anointing"
 
 ---
 
-[GDG on Campus(Google Developer Group On Campus) FOUYE](https://gdsc.community.dev/federal-university-oye-ekiti-ekiti-state/)
-
 **Community Lead**
 _Joined the 2020⁄2021 [GDG on Campus FUOYE Lead](https://gdsc.community.dev/federal-university-oye-ekiti-ekiti-state/)_
+
+## Mentions
+
+---
+**Gnome Librsvg Contributor**
+
+[Librsvg Stable Release 2.59.2](https://gitlab.gnome.org/GNOME/librsvg/-/releases/2.59.2)
+
+[Librsvg Development Release 2.59.90](https://gitlab.gnome.org/GNOME/librsvg/-/releases/2.59.90)
 
 ## Skills
 
@@ -37,12 +44,3 @@ _Joined the 2020⁄2021 [GDG on Campus FUOYE Lead](https://gdsc.community.dev/fe
 - ReST API
 - Domain-Driven Design
 - Test-Driven Development
-
-## Mentions
-
----
-**Contributor**
-
-[Librsvg Stable Release 2.59.2](https://gitlab.gnome.org/GNOME/librsvg/-/releases/2.59.2)
-
-[Librsvg Development Release 2.59.90](https://gitlab.gnome.org/GNOME/librsvg/-/releases/2.59.90)
