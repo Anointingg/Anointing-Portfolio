@@ -98,6 +98,10 @@ disqusShortname = "myfoliosite"
         name = "Talks"
         url = "/talks"
       [[languages.en.menu.main]]
+        identifier = "works"
+        name = "Works"
+        url = "/works"
+      [[languages.en.menu.main]]
         identifier = "about"
         name = "WhoAmI"
         url = "/about"
@@ -116,6 +120,10 @@ disqusShortname = "myfoliosite"
     identifier = "talks"
     name       = "Talks"
     url        = "/talks"
+  [[menu.main]]
+    identifier = "works"
+    name       = "Works"
+    url        = "/works"
   [[menu.main]]
     identifier = "whoAmI"
     name       = "WhoAmI"
