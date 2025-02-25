@@ -27,17 +27,16 @@ _Joined the 2020⁄2021 [GDSC FUOYE Lead](https://gdsc.community.dev/federal-uni
 ## Skills
 
 ---
-
-- HTML/CSS
+- Rust
 - Golang
 - Python
 - MongoDB
 - Git
 - Linux
-- gRPC / Protobuf
-- Prometheus
+- Graphql
 - ReST API
-- The rest will be updated soon 👀
+- Domain-Driven Design
+- Test-Driven Development
 
 ## Mentions
 
