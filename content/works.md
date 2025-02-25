@@ -1,10 +1,10 @@
 +++
 title = "Works"
-description = "yorubad-dev | Software Engineer | Backend Developer| Golang, Python | Open Source Contributor"
+description = "yorubad-dev | Software Engineer | Backend Engineer | Golang Developer | Rust Developer | Technical Writer| Golang, Rust, Python | Open Source Enthusiast"
 date = "2023-01-01"
 aliases = ["works","about-me"]
 [ author ]
-name = "yorubad-dev"
+name = "Adetoye Anointing"
 +++
 
 ## Projects
@@ -38,3 +38,10 @@ _Joined the 2020⁄2021 [GDSC FUOYE Lead](https://gdsc.community.dev/federal-uni
 - Prometheus
 - ReST API
 - The rest will be updated soon 👀
+
+## Mentions
+
+---
+**Contributor**
+[Librsvg Stable Release 2.59.2](https://gitlab.gnome.org/GNOME/librsvg/-/releases/2.59.2)
+[Librsvg Development Release 2.59.90](https://gitlab.gnome.org/GNOME/librsvg/-/releases/2.59.90)
