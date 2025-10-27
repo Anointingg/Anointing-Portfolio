@@ -133,10 +133,16 @@ disqusShortname = "myfoliosite"
     name       = "Resume"
     url        = "https://docs.google.com/document/d/1pnIV27RFDnoHLjDYf2i93DfreUW682mny3ODPPKXTK4/edit?usp=sharing"
 
-categories:
-  - title: "Core Technologies"
-    tags: ["Golang", "Rust", "Python"]
-  #- title: "Infrastructure"
-    #tags: ["Docker", "Kubernetes", "Terraform", "AWS/GCP", "CI/CD"]
-  #- title: "Blockchain"
-    #tags: ["Ethereum", "Solana", "Foundry", "Hardhat", "CosmWasm"]
+# categories section (TOML array of tables)
+[[categories]]
+  title = "Core Technologies"
+  tags = ["Golang", "Rust", "Python"]
+
+# Example additional categories (uncomment to enable)
+# [[categories]]
+#   title = "Infrastructure"
+#   tags = ["Docker", "Kubernetes", "Terraform", "AWS/GCP", "CI/CD"]
+#
+# [[categories]]
+#   title = "Blockchain"
+#   tags = ["Ethereum", "Solana", "Foundry", "Hardhat", "CosmWasm"]
