@@ -15,3 +15,11 @@ from = "/blog/"
 to = "https://yorubad-dev-blog.netlify.app/"
 status = 301
 force = true
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.116.0"    # pick a version you want
+  HUGO_EXTENDED = "true"      # optional, enable if you need the extended build
