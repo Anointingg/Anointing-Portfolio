@@ -1,20 +1,26 @@
-<footer class="footer">
-    <div class="footer__inner">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"></div>
-            <span>&copy; {{ now.Format "2006" }}</span>
-            {{ if .Site.Author.name }}
-                • <span><a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a></span>
-            {{ end }}
-            {{ if .Site.Copyright }}
-                <span>{{ .Site.Copyright| safeHTML }}</span>
-            {{ end }}
-            •<span>{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }} <a href="{{ "posts/index.xml" | absLangURL }}" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>{{ end }}</span>
-        </div>
-    </div>
-    <!-- <div class="footer__inner">
-        <span class="credit">
-            Powered by
-            <a target="_blank" href="https://gohugo.io">Hugo</a></span>
-        </div> -->
+<footer class="site-footer">
+  <div class="container">
+    <p class="footer-copy">
+      {{ with i18n "copyright" }}
+        {{ . | safeHTML }}
+      {{ else }}
+        © {{ now.Format "2006" }} {{ with $.Site.Author }}{{ .name }}{{ end }}
+      {{ end }}
+    </p>
+
+    {{/* optional subtitle/credits (use language params if present) */}}
+    {{ $sub := default "" (i18n "footer_subtitle") }}
+    {{ if $sub }}
+      <p class="footer-sub">{{ $sub }}</p>
+    {{ end }}
+
+    {{/* social links from site params (safe iterate) */}}
+    {{ with $.Site.Params.social }}
+      <ul class="footer-social">
+        {{ range . }}
+          <li><a href="{{ .url }}" rel="noopener" target="_blank">{{ .name | humanize }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
 </footer>
