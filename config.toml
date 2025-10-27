@@ -1,6 +1,6 @@
-baseURL = "https://yorubad-dev.netlify.app/"
+baseURL = "https://Anointing.netlify.app/"
 languageCode = "en-us"
-title = "yorubad-dev"
+title = "Anointing"
 paginate     = 10
 googleAnalytics = "UA-123518521-4"
 disqusShortname = "myfoliosite"
@@ -10,16 +10,16 @@ disqusShortname = "myfoliosite"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  ProfilePicture = "../images/protpf.jpeg"
+  ProfilePicture = "../images/profilePicture.jpg"
 
   # Subtitle for home
-  homeSubtitle = "Software Engineer 〣 Backend Engineer 〣 Golang Developer 〣 Rust Developer 〣 Technical Writer 〣 Opensource Enthusiast"
+  homeSubtitle = "Software Engineer 〣 Technical Writer 〣 Opensource Enthusiast"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "yorubad-dev | Software Engineer | Backend Engineer | Golang Developer | Rust Developer | Technical Writer| Golang, Rust, Python | Open Source Enthusiast"
+  description = "Anointing | Software Engineer | Backend Engineer | Golang Developer | Rust Developer | Technical Writer| Golang, Rust, Python | Open Source Enthusiast"
   images = [""]
 
   enableRobotsTXT = true
@@ -63,17 +63,17 @@ disqusShortname = "myfoliosite"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "~/Yorubad-Dev"
+      logoText = "~/Anointing"
       logoHomeLink = "/"
     # or
-    #yorubad-dev
+    #Anointing
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
     # Social icons
   [[languages.en.params.social]]
     name = "twitter"
-    url  = "https://twitter.com/yorubad-dev"
+    url  = "https://twitter.com/Anointing"
 
   [[languages.en.params.social]]
     name = "linkedin"
@@ -85,14 +85,14 @@ disqusShortname = "myfoliosite"
 
   [[languages.en.params.social]]
     name = "github"
-    url  = "https://github.com/yorubad-dev"
+    url  = "https://github.com/Anointinggg"
 
     # You can create a language based menu
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "https://blogs.gnome.org/yorubad-dev"
+        url = "https://blogs.gnome.org/Anointing"
       [[languages.en.menu.main]]
         identifier = "talks"
         name = "Talks"
@@ -115,7 +115,7 @@ disqusShortname = "myfoliosite"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "https://blogs.gnome.org/yorubad-dev"
+    url        = "https://blogs.gnome.org/Anointing"
   [[menu.main]]
     identifier = "talks"
     name       = "Talks"
@@ -132,3 +132,11 @@ disqusShortname = "myfoliosite"
     identifier = "resume"
     name       = "Resume"
     url        = "https://docs.google.com/document/d/1pnIV27RFDnoHLjDYf2i93DfreUW682mny3ODPPKXTK4/edit?usp=sharing"
+
+categories:
+  - title: "Core Technologies"
+    tags: ["Golang", "Rust", "Python"]
+  #- title: "Infrastructure"
+    #tags: ["Docker", "Kubernetes", "Terraform", "AWS/GCP", "CI/CD"]
+  #- title: "Blockchain"
+    #tags: ["Ethereum", "Solana", "Foundry", "Hardhat", "CosmWasm"]

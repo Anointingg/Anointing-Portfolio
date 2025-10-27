@@ -281,6 +281,76 @@ pre[class*="language-"] {
     --ifm-color-danger: #db4437;
     --ifm-link-color: #0f9d58;
 }
+
+/* Skills grid + pill badges — adapted to your theme palette */
+.skills-section {
+  padding: 3rem 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  color: var(--ifm-color-secondary-lightest, #e6e6e6);
+  background: transparent;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+}
+
+/* card */
+.skill-card {
+  background: rgba(255,255,255,0.02); /* subtle card on dark bg */
+  border: 1px solid rgba(255,255,255,0.04);
+  border-radius: 12px;
+  padding: 1.25rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.01);
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+.skill-card:hover{
+  transform: translateY(-6px);
+  border-color: rgba(15,157,88,0.12); /* uses --ifm-color-primary tint */
+  box-shadow: 0 14px 36px rgba(0,0,0,0.75);
+}
+
+/* title */
+.skill-title {
+  font-weight: 700;
+  margin: 0 0 0.75rem 0;
+  color: var(--ifm-color-secondary-lightest, #e6e6e6);
+  letter-spacing: 0.4px;
+}
+
+/* badges layout */
+.skill-tags {
+  display: flex;
+  gap: .5rem;
+  flex-wrap: wrap;
+}
+
+/* pill badge */
+.skill-badge {
+  display: inline-block;
+  padding: .38rem .78rem;
+  background: rgba(255,255,255,0.03);
+  color: var(--ifm-color-secondary-lightest, #e6e6e6);
+  border-radius: 999px;
+  font-size: .9rem;
+  border: 1px solid rgba(255,255,255,0.03);
+  box-shadow: 0 1px 0 rgba(255,255,255,0.01) inset;
+  transition: background .12s ease, transform .12s ease, border-color .12s ease;
+  cursor: default;
+}
+.skill-badge:hover {
+  background: rgba(15,157,88,0.06); /* hover uses primary color */
+  transform: translateY(-2px);
+  border-color: rgba(15,157,88,0.14);
+}
+
+/* small variant for mobile */
+@media (max-width:600px) {
+  .skills-section { padding: 2rem 0.6rem; }
+  .skill-badge { font-size: .85rem; padding: .32rem .62rem; }
+}
 @font-face {
   font-family: geomanist;
   font-weight: 300;
@@ -661,8 +731,6 @@ h4 {
 a {
   color: var(--ifm-link-color);
   text-decoration: underline;
-}{
-    color: inherit;
 }
 img {
     display: block;
