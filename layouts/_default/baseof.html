@@ -1,20 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
     <head>
+        {{/* pass dot into head partial */}}
         {{ partial "head.html" . }}
-    </head>
 
+        {{/* safe description: use page subtitle if set, otherwise site description */}}
+        {{ $descr := default $.Site.Params.description .Params.subtitle }}
+        <meta name="description" content="{{ $descr }}">
+    </head>
     <body class="{{ if ne $.Site.Params.defaultTheme "light" -}} dark-theme {{- end -}}">
         <div class="container">
+            {{/* pass context into header/footer partials */}}
             {{ partial "header.html" . }}
-
-            <div class="content">
-                {{ block "main" . }}{{ end }}
-            </div>
-
-            {{ block "footer" . }}
-                {{ partial "footer.html" . }}
-            {{ end }}
+            <main>
+                <div class="content">
+                    {{ block "main" . }}{{ end }}
+                </div>
+            </main>
+            {{ partial "footer.html" . }}
         </div>
 
         {{ partial "javascript.html" . }}
